@@ -1,0 +1,212 @@
+.logo {
+    height: 150px;
+}
+
+header {
+    background-color: #bbb;
+    display: flex;
+}
+
+h1 {
+    margin-top: 50px;
+    margin-left: 20px;
+    font-family: 'Arial', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+}
+
+main {
+    background-color: #777;
+    height: 2500px;
+    padding: 10px;
+}
+
+body {
+    margin: 0px;
+}
+
+.post {
+    background-color: #555;
+    height: 400px;
+    display: flex;
+    border-radius: 25px;
+    font-family: 'Arial', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: #aaa;
+    margin-top: 10px;
+    margin-bottom: 35px;
+    border: 5px #333 solid;
+}
+
+.post img {
+    margin-right: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border: 2px #333 solid;
+}
+
+.button {
+    background-color: #333;
+    margin-left: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #aaa;
+    padding: 10px;
+}
+
+.button:hover {
+    background-color: #666;
+}
+
+.button:active {
+    background-color: #666;
+    color: #fff;
+    border: 2px #333 solid;
+    border-radius: 10px;
+}
+
+.buttonwiki {
+    background-color: #777;
+    margin-left: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #ccc;
+    padding: 10px;
+}
+
+.buttonwiki:hover {
+    background-color: #999;
+}
+
+.buttonwiki:active {
+    background-color: #999;
+    color: #fff;
+    border: 2px #333 solid;
+    border-radius: 10px;
+}
+
+.buttoninsta {
+    background-color: #c114db;
+    margin-left: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #700dba;
+    padding: 10px;
+}
+
+.buttoninsta:hover {
+    background-color: #d363e4;
+}
+
+.buttoninsta:active {
+    background-color: #d363e4;
+    color: #fff;
+    border: 2px #333 solid;
+    border-radius: 10px;
+}
+
+.buttonyt {
+    background-color: #d12a2a;
+    margin-left: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+}
+
+.buttonyt:hover {
+    background-color: #df4c4c;
+}
+
+.buttonyt:active {
+    background-color: #df4c4c;
+    color: #555;
+    border: 2px #333 solid;
+    border-radius: 10px;
+}
+
+.buttonronaldo {
+    background-color: #333;
+    margin-left: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #aaa;
+    padding: 10px;
+}
+
+.buttonronaldo:hover {
+    background-color: #666;
+}
+
+.buttonronaldo:active {
+    background-color: #666;
+    color: #fff;
+    border: 2px #333 solid;
+    border-radius: 10px;
+}
+
+.buttonback {
+    background-color: #333;
+    margin-left: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #aaa;
+    padding: 10px;
+}
+
+.buttonback:hover {
+    background-color: #666;
+}
+
+.buttonback:active {
+    background-color: #666;
+    color: #fff;
+    border: 2px #333 solid;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #555;
+    display: flex;
+}
+
+footer p {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    color: #999;
+}
+
+.policy {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    color: #999;
+    text-decoration: none;
+}
+
+.legal {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    color: #999;
+    text-decoration: none;
+}
+
+.insta {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    color: #999;
+    text-decoration: none;
+}
+
+.X {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    color: #999;
+    text-decoration: none;
+}
